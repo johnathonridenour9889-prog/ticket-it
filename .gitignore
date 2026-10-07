@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Logs
+*.log
+
+# Operating system
+Thumbs.db
+.DS_Store
